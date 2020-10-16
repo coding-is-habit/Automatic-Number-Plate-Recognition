@@ -1,10 +1,10 @@
-# NumberPlateLocalization
+# Automatic-Number-Plate-Recognition
 A high recall Number Plate Detector System in Python and OpenCV
 
-Using Image Processing techniques with the help of Numpy and OpenCV libraries in Python, **NumberPlateLocalization** is a high recall Number Plate Detector in images of cars.
+Using Image Processing techniques with the help of Numpy and OpenCV libraries in Python, **Automatic-Number-Plate-Recognition** is a high recall Number Plate Detector in images of cars.
 
 ## Usage:
-For using NumberPlateLocalization through the Console, use the following command.
+For using Automatic-Number-Plate-Recognition through the Console, use the following command.
 
 
 `python NumberPlateLocalization.py [options]`
