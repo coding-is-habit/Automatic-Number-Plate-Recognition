@@ -40,13 +40,13 @@ The options can be used in conjunction to create various combinations. Some exam
 ## Results:
 The Detector works with fairly accurate results for most of the images in the dataset. Some results are as follows:
 
-![Success Image 1](https://raw.githubusercontent.com/saketk21/NumberPlateLocalization/master/FinalOutput/1-detected.png)
-![Success Image 2](https://raw.githubusercontent.com/saketk21/NumberPlateLocalization/master/FinalOutput/11-detected.png)
-![Success Image 3](https://raw.githubusercontent.com/saketk21/NumberPlateLocalization/master/FinalOutput/12-detected.png)
+![Success Image 1](https://github.com/coding-is-habit/Automatic-Number-Plate-Recognition/blob/main/FinalOutput/26-detected.png)
+![Success Image 2](https://github.com/coding-is-habit/Automatic-Number-Plate-Recognition/blob/main/FinalOutput/27-detected.png)
+![Success Image 3](https://github.com/coding-is-habit/Automatic-Number-Plate-Recognition/blob/main/FinalOutput/12-detected.png)
 
 However, the Detector fails for some images showing false positives or concave polygons over the Number Plate region.
 
-![Failure Image 1](https://raw.githubusercontent.com/saketk21/NumberPlateLocalization/master/FinalOutput/9-detected.png)
-![Failure Image 1](https://raw.githubusercontent.com/saketk21/NumberPlateLocalization/master/FinalOutput/18-detected.png)
+![Failure Image 1](https://github.com/coding-is-habit/Automatic-Number-Plate-Recognition/blob/main/FinalOutput/18-detected.png)
+![Failure Image 1](https://github.com/coding-is-habit/Automatic-Number-Plate-Recognition/blob/main/FinalOutput/14-detected.png)
 
 The Detector results can be improved by using certain Machine Learning optimizations to choose the value of Epsilon for Polygon Approximation, applying a threshold for the Number of White Pixels per total pixels in the area of the detected contour etc.
